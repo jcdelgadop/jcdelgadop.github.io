@@ -34,3 +34,5 @@ Requiere API Key de Anthropic para funcionar.
 - [Portfolio](https://jcdelgadop.github.io)
 - [LinkedIn](https://www.linkedin.com/in/juan-carlos-delgado)
 - [YouTube](https://youtube.com/@jcdelgadop)
+
+<!-- Migración NEXUS v2 completada 17 jul 2026 -->
